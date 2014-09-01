@@ -1,3 +1,13 @@
+/*
+2개의 링크드리스트로 각각 숫자들이 연결되어있다.
+1324 = 1 + 3 + 2 + 4 형식으로 연결리스트가 연결되어 있음
+2개의 연결리스트의 값의 합을 구하라.
+
+ex) 1324 + 16 = 1340
+
+*/
+
+
 package tryCatch.codingInterview.linkedList;
 
 import java.util.Stack;
